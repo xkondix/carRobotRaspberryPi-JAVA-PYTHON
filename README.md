@@ -1,7 +1,7 @@
 # carRobotRaspberryPi-JAVA-PYTHON
 
 App to control by phone is here https://github.com/xkondix/wifiJoyApp-JAVA.
-Firstyly you must build the robot, when robot will be complited, you should configure raspberry and install necessary libraries.
+Firstly you must build the robot, when robot will be complited, you should configure raspberry and install necessary libraries.
 Next turn on raspbeerry and enable script "wifi.py", then you can connect by your phone with raspberry, and you can drive.
 
 Film is here -> https://www.instagram.com/p/B1n4tOyIQhS/
