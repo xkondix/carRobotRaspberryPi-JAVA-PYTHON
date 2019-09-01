@@ -3,6 +3,9 @@
 App to control by phone is here https://github.com/xkondix/wifiJoyApp-JAVA.
 Firstly you must build the robot, when robot will be complited, you should configure raspberry and install necessary libraries.
 Next turn on raspbeerry and enable script "wifi.py", then you can connect by your phone with raspberry, and you can drive.
+Auto start script:
+1) In consol write crontab -e
+2) At the end of the script write @reboot python3 (addres) /home/pi/wifi.py
 
 Films are here -> https://www.facebook.com/konrad.kowalczyk.144/posts/3362156940491766
 
