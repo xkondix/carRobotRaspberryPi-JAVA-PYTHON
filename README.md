@@ -4,7 +4,7 @@ App to control by phone is here https://github.com/xkondix/wifiJoyApp-JAVA.
 Firstly you must build the robot, when robot will be complited, you should configure raspberry and install necessary libraries.
 Next turn on raspbeerry and enable script "wifi.py", then you can connect by your phone with raspberry, and you can drive.
 
-Film is here -> https://www.instagram.com/p/B1n4tOyIQhS/
+Films are here -> https://www.facebook.com/konrad.kowalczyk.144/posts/3362156940491766
 
 Photos
 
@@ -29,3 +29,7 @@ Photos
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ![68870045_499796330564693_8587407536322248704_n](https://user-images.githubusercontent.com/52525583/63451322-39ea7e00-c444-11e9-80bb-1dc4793a4c1f.jpg)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![20190831_141408](https://user-images.githubusercontent.com/52525583/64077499-5c488b00-ccd1-11e9-9be8-099df88e2c3b.jpg)
